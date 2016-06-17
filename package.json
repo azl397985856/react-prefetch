@@ -1,0 +1,29 @@
+{
+  "name": "react-prefetch",
+  "version": "1.0.0",
+  "description": "A library to prefetch resource base on react",
+  "main": "lib/prefetch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azl397985856/react-prefetch.git"
+  },
+  "keywords": [
+    "prefetch",
+    "prerender",
+    "react",
+    "hover"
+  ],
+  "author": "zhipengLu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azl397985856/react-prefetch/issues"
+  },
+  "homepage": "https://github.com/azl397985856/react-prefetch#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.5.0"
+  }
+}
